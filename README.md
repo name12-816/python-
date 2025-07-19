@@ -211,7 +211,7 @@ class XK:
                     else:
                         print('请选择您想购买的显卡')
                 else:
-                    print('请选择您想购买的显卡')
+                    print('请选择您想购买的显卡！')
         except ValueError:
             print("出错了")
 mun = XK(xk_甜品显卡, xk_中低端显卡, xk_中端显卡, xk_中高端显卡, xk_高端显卡)
