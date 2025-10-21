@@ -1,0 +1,6 @@
+#include <stdio，h>
+int main(){
+	printf("你们好");
+	printf("我是github的一个新手(◕ᴗ◕)✎");
+	printf("请多多关照");
+}
